@@ -15,5 +15,12 @@ The template will preconfigure the VSCode reveal extention to export the slide d
 2. Clone the repository to your local machine
 3. Open the repository in VSCode and edit the slides.md file
 4. Click on the RevealJS icon in the Sidebar menu
-5. Click on the 3rd icon from the left to preview the slideshow in your browser
-6. Click on the 1st icon from the left to export the deck to the /docs directory
+5. Click on the 3rd icon (export) from the left to preview the slideshow in your browser
+6. Click on the 1st icon (HTML5) from the left to export the deck to the /docs directory
+
+## Github Pages
+
+1. Go to repo settings > Pages
+2. Set branch to main > docs
+3. Go back to main "code" tab...on bottom right is Environments > github-pages
+4. Push to deploy
